@@ -2,4 +2,4 @@
 Learning Git
 
 Hello Github
-<h1> <b>Welcome github website </b> </h1>
+<h1> <i>Welcome github website </i> </h1>
